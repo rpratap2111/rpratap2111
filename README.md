@@ -77,6 +77,16 @@ SCADA systems, industrial automation and network security in thermal power plant
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4><img src="https://api.iconify.design/lucide/messages-square.svg?color=%23C9A227" width="18" height="18" align="texttop" alt="" /> <a href="https://github.com/rpratap2111/temp-chat">Temp Chat App</a></h4>
+      Real-time, room-based chat with Socket.IO. Rooms are ephemeral: messages disappear the moment a room closes, with nothing stored.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+      <a href="https://temp-chat-app-lilac.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-C9A227?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+    </td>
+  </tr>
 </table>
 
 ### <img src="https://api.iconify.design/lucide/award.svg?color=%23C9A227" width="22" height="22" align="texttop" alt="" /> Certifications & patent
