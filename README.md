@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300" alt="Coding" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding" />
 
 ### <img src="https://api.iconify.design/lucide/user.svg?color=%23C9A227" width="22" height="22" align="texttop" alt="" /> About me
 
